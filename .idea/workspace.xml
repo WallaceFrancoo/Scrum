@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64f0d33b-1fde-4737-842a-4e953b67df79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/4. Processo de Scrum.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Product Owner.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Scrum Master.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. Development Team.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3. Estrutura do Scrum.md" beforeDir="false" afterPath="$PROJECT_DIR$/3. Estrutura do Scrum.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Wallace/Desktop/PROJETOS/Scrum"
   }
 }]]></component>
   <component name="RunManager">
